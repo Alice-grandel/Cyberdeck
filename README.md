@@ -33,4 +33,4 @@ Projeto pessoal com foco em:
 ---
 
 ## 📌📓 Observações
-Este repositório possui **caráter educacional e experimental**, documentando tanto acertos quanto erros ao longo do desenvolvimento.
+- Ainda em desenvolvimento.
