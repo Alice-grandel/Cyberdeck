@@ -20,6 +20,7 @@ Este repositório documenta todo o processo do projeto — **hardware, software,
 ## 📸🖼️ Fotos
 <img width="597" height="597" alt="image" src="https://github.com/user-attachments/assets/8192c204-01b4-409e-a587-17d261d6a17b" />
 
+<img width="599" height="599" alt="image" src="https://github.com/user-attachments/assets/4d3ac548-b8ef-4745-935c-f3fd19587d47" />
 
 
 ---
